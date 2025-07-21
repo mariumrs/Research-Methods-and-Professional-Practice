@@ -18,7 +18,7 @@ Python, R, Google Analytics 4, Tableau, power BI, Jira, SQLplus , MySQL, SAP
 Here are all the tasks of the unit Research Methods and Professional Practice so far!
 
 ### Introduction 
-This unit gave me the chance to really understand how research fits into the world of data science and not just as a process, but as a way of thinking. As I worked through different topics like building research questions, analysing data, and considering ethical issues, I started to see research as something much more than theory. The tasks we did—like case studies, reflections, and proposal writing—helped me link ideas to real practice. I now view research as a practical tool for asking better questions, making informed decisions, and being more accountable in how I work with data, especially when the outcomes affect people in the real world.
+This unit gave me the chance to really understand how research fits into the world of data science and not just as a process, but as a way of thinking. As I worked through different topics like building research questions, analysing data, and considering ethical issues, I started to see research as something much more than theory. The tasks we did like case studies, reflections, and proposal writing helped me link ideas to real practice. I now view research as a practical tool for asking better questions, making informed decisions, and being more accountable in how I work with data, especially when the outcomes affect people in the real world.
 
 ### How I’ve applied these concepts in practice
 The activities paired with self reflection really made me aware of where I stood in terms of my personal development.
