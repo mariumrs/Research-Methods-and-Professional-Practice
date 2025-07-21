@@ -52,3 +52,85 @@ This case serves as a powerful reminder that leadership must go beyond technical
 References:
 ACM (2018). Abusive Workplace Behavior. https://www.acm.org/code-of-ethics/case-studies/abusive-workplace-behavior
 BCS (2015). BCS Code of Conduct. https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/
+
+### Unit 2
+#### Literature Review and Research Proposal Outlines
+Overview of the Topic:
+The gender pay gap is a widely recognised issue across many industries. This proposal focuses on understanding how it manifests specifically within the UK’s technology sector.
+
+Rationale:
+The tech industry is a fast-growing and highly influential field. Exploring pay inequality in this context can provide useful insights for improving fairness and inclusion.
+
+Aim of the Study:
+To explore the causes and implications of gender-based pay differences in the UK tech industry and to identify possible ways to address them.
+
+Research Questions
+What are the main factors contributing to the gender pay gap in the UK tech sector?
+How do company structures and workplace culture influence pay differences?
+What steps can organisations take to reduce the gap?
+
+Objectives
+To investigate the current state of pay equality between men and women in UK tech industry.
+To understand employee experiences and perceptions regarding pay and career progression.
+To suggest strategies for reducing the gender pay gap in the industry.
+
+Approach:
+A combination of quantitative and qualitative research methods will be used.
+
+Data Collection:
+Quantitative data (e.g., salary data, job roles, gender distribution).
+Qualitative data (e.g., interviews or surveys with tech employees).
+
+Analysis:
+Data will be examined to identify patterns, trends, and themes related to gender pay disparities.
+
+Ethical Considerations:
+Participants will be informed about the research purpose.
+Confidentiality and voluntary participation will be ensured.
+
+Expected Outcomes
+A general overview of the gender pay gap in the UK tech sector.
+Better understanding of workplace factors that influence pay equity.
+Practical suggestions for organisations and professionals in the industry.
+
+### Unit 3
+#### Research Proposal Review
+
+A combination of quantitative and qualitative research methods will be used.
+
+Data Collection:
+Quantitative data (e.g., salary data, job roles, gender distribution).
+Qualitative data (e.g., interviews or surveys with tech employees).
+
+### Unit 5
+#### Reflective Activity 2
+Case Study: Inappropriate Use of Surveys
+Looking back at the Cambridge Analytica incident, it is easy to see how something as familiar and seemingly harmless as an online quiz could lead to one of the most talked about data misuse cases in recent years. What started as a few light-hearted surveys on Facebook ended up exposing the personal information of millions of users many of whom had no idea they were even involved.
+
+The surveys themselves did not seem unusual. They asked fun questions often disguised as personality tests. People shared their answers out of curiosity or boredom, probably never imagining it would go further than that. But what made the situation so concerning was how the data behind the scenes was handled. By completing the surveys users gave permission sometimes unknowingly for the app to access more than just their answers. In many cases, it pulled in information from their profiles including data from their friends accounts too.
+
+That collected data was then analysed and used to build detailed psychological and behavioural profiles of users. These profiles were reportedly used to help shape political campaigns by targeting people with specific messages that matched their personality types or beliefs. This kind of microtargeting blurred the lines between persuasion and manipulation.
+
+The real issue here was not just about data being collected but it was about the lack of awareness and consent. Most people did not know their information or their friend’s information was being taken and used in this way. There was not enough transparency and the original purpose of the surveys was completely different from how the data was eventually used. That disconnect between intention and outcome is what made it feel like a breach of trust.
+
+For me, this case really shows how easy it is for a familiar tool like a survey to be turned into something more powerful and potentially dangerous when data is involved. It is not just about asking questions it is about what is being done with the answers. It also reminds me how important it is for anyone designing research tools to be upfront about their intentions and to think beyond the short-term goals. Just because a method is technically allowed does not mean it is ethically right.
+
+In the end, what happened with Cambridge Analytica was not just about one company or one platform it was about how much responsibility we all carry when it comes to collecting and handling data. And it is a reminder that in digital spaces, even something as ordinary as a quiz can have much bigger implications than expected.
+
+### Unit 7
+#### Hypothesis Testing Worksheet
+
+The Related Samples T Test
+<img width="969" height="737" alt="image" src="https://github.com/user-attachments/assets/ef4a50d8-5259-4b12-9ed5-2dc635de6753" />
+
+The INDEPENDENT Samples T Test
+<img width="736" height="727" alt="image" src="https://github.com/user-attachments/assets/87f1d5c5-e616-41b6-b3a9-28ea2632828c" />
+
+### Unit 8
+#### Charts Worksheet
+Bar Charts in Excel
+<img width="1388" height="795" alt="image" src="https://github.com/user-attachments/assets/1b625a7a-18f4-47a2-856c-119b795f0ab6" />
+
+Histograms
+<img width="1083" height="798" alt="image" src="https://github.com/user-attachments/assets/81b853fb-904a-42b7-a568-14d9ae573b85" />
+
